@@ -6,6 +6,7 @@ export interface Person {
     isStudent: boolean;
 }
 
+// props are defined as person
 export const Person = (props: Person) => {
     const [personBio, setPersonBio] = useState<string | null>(null)
 

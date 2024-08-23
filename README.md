@@ -1,3 +1,10 @@
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+# basic-typescript-website
+Trying out typescript.
+=======
+>>>>>>> Stashed changes
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -48,3 +55,7 @@ export default tseslint.config({
   },
 })
 ```
+<<<<<<< Updated upstream
+=======
+>>>>>>> 0cc10d6 (initial commit)
+>>>>>>> Stashed changes
